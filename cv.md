@@ -33,11 +33,9 @@
   <article>
     <h3>    Заходим туда      </h3> 
     <h2>    сюда  </h2>
-    <a href="#">Сюда тюк</a>
-  </article>
+   </article>
   </section>
   </main>
 6. I have no experience working in IT. 
 7. I attended TECHCARD courses.
-8. [Image of English test] (https://vk.cc/c3YyJy)
-
+8. ![Image of English test] (https://vk.cc/c3YyJy)
