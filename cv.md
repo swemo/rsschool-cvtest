@@ -26,6 +26,5 @@
 6. I have no experience working in IT 
 7. I attended TECHCARD courses
 
-
 8. ![Image of English test](https://cdn.discordapp.com/attachments/564399784111243274/864193425222008862/unknown.png)
 
