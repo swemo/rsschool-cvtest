@@ -13,6 +13,9 @@
   </ul>
   </nav>
 </header>
+<main>
+<h2>  Всем привет,это главная страница  </h2>
+</main>
 <aside>
 <nav>
 <ul>
@@ -20,9 +23,7 @@
   <li><a href="/service-2">Услуга 2</a></li>
   <li><a href="/service-3">Услуга 3</a></li>
   </ul></nav></aside>
-<main>
-<h2>  Всем привет,это главная страница  </h2>
-</main>
+
 6. I have no experience working in IT 
 7. I attended TECHCARD courses
 8. ![Image of English test](https://vk.cc/c3YyJy)
