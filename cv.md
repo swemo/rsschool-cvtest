@@ -5,7 +5,9 @@
 	* discord - swemosw#0329
 3. I am 29 years old. I am a process engineer with ~3 years of experience on 558 ARZ, 3+ years as an administrator in the TECHCARD system. My main goal is to get a knowledge base for the subsequent transition to a profession in IT. I am a fast learner, I like to learn something new.
 4. Techcard -Automated system of technological preparation of production
-5. <header > <img src="/logo.png" alt="Логотип">
+5. 
+```
+<header > <img src="/logo.png" alt="Логотип">
 <nav>
   <ul>
     <lI><a href="/">Главная</a></lI>
@@ -24,6 +26,7 @@
   <li><a href="/service-3">Услуга 3</a></li>
   </ul></nav></aside>
 </nav>
+```
 
 6. I have no experience working in IT
 7. I attended TECHCARD courses
