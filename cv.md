@@ -7,25 +7,24 @@
 4. Techcard -Automated system of technological preparation of production
 5. 
 ```
-<header > <img src="/logo.png" alt="Логотип">
-<nav>
-  <ul>
-    <lI><a href="/">Главная</a></lI>
-     <lI><a href="/">Второстепенная</a></lI>
-  </ul>
-  </nav>
-</header>
-<main>
-<h2>  Всем привет,это главная страница  </h2>
+<main> <!-- Определение основной части страницы -->
+    <article> <!-- Определение статьи -->
+        <header> <!-- Заголовочная информация статьи -->
+            <h1>Название статьи</h1>
+            <img src="article.png" alt="Заголовок статьи">
+        </header>
+
+        <p>Текст нашей статьи</p>
+
+        <footer> <!-- «Подвал статьи» с указанием автора и даты -->
+          <address> <!-- Информация об авторе статьи -->
+              <p>Автор: Андрей</p>
+              <p>Email: Андрюха@test.test</p>
+          </address>
+          <time datetime="2019-07-27">27 июля</time> <!-- Дата написания статьи -->
+        </footer>
+    </article>
 </main>
-<aside>
-<nav>
-<ul>
-  <li><a href="/service-1">Услуга 1</a></li>
-  <li><a href="/service-2">Услуга 2</a></li>
-  <li><a href="/service-3">Услуга 3</a></li>
-  </ul></nav></aside>
-</nav>
 ```
 
 6. I have no experience working in IT
