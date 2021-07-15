@@ -1,5 +1,5 @@
 1. Andrei Papchenia
-2.          	* Phone number +375(33) 605-08-16
+2.      * Phone number +375(33) 605-08-16
 	* email - swemosw@gmail.com
 	* telegram - @swemo
 	* discord - swemosw#0329
@@ -30,19 +30,14 @@
     <h3>    сюда  </h3>
   <a href="#"> тюк сюда</a>
   </article>
-
   <article>
-    <h3>
-    Заходим туда
-        </h3> 
-    <h2>
-    сюда
-  </h2>
+    <h3>    Заходим туда      </h3> 
+    <h2>    сюда  </h2>
     <a href="#">Сюда тюк</a>
-  </arcricle>
+  </article>
   </section>
   </main>
 6. I have no experience working in IT. 
 7. I attended TECHCARD courses.
-8.[Image of English test ] (https://vk.cc/c3YyJy)
+8. [Image of English test] (https://vk.cc/c3YyJy)
 
