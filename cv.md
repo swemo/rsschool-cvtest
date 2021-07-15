@@ -13,9 +13,7 @@
             <h1>Название статьи</h1>
             <img src="article.png" alt="Заголовок статьи">
         </header>
-
         <p>Текст нашей статьи</p>
-
         <footer> <!-- «Подвал статьи» с указанием автора и даты -->
           <address> <!-- Информация об авторе статьи -->
               <p>Автор: Андрей</p>
@@ -26,6 +24,7 @@
     </article>
 </main>
 ```
+
 
 6. I have no experience working in IT
 7. I attended TECHCARD courses
